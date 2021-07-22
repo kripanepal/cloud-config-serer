@@ -2,7 +2,7 @@ microservice:
   payment-service:
     endpoints:
       endpoint:
-        uri: http://PAYMENT-SERVICE/payment/makepayment
+        uri: http://PAYMENT-SERVICE/payment/makepayment20
         
         
   order-service:
